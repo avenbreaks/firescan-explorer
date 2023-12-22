@@ -8,7 +8,6 @@
 /doc
 /*.ez
 /logs
-/docker-compose/ssl
 
 # mix dialyzer artifacts
 /priv/plts
